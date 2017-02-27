@@ -19,6 +19,10 @@ body {
 
 
 }
+#main-title{
+	font-weight: bold;
+	font-size:20px;
+}
 #Menu1{
     color:black;
 }
@@ -113,4 +117,20 @@ body {
 }
 #modalBorder{
     background-color: #f5f5f0;
+}
+#footer{
+	background-color:#ff4d4d;
+	margin-left:2%;
+	color : white;
+	font-size:14px;
+	
+}
+#social{
+	width:10%;
+	float:right;
+	margin-right:3%;
+	
+}
+#zip{
+	width:20%;
 }
